@@ -1,0 +1,2 @@
+rootProject.name = "Collage Administration System"
+include ':app'

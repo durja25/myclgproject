@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UserApp</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/josefinsansbold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/josefinsanslight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/josefinsansregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
